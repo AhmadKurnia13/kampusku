@@ -8,13 +8,13 @@ Tugas Praktikum **Pemrograman Mobile II (IF-024)** - Pertemuan 3 (Inisiasi Proje
 - **Kelas**: TIF RP 24E CNS
 - **Semester**: 5
 
-**Dosen Pengampu**: Sutani, S.T., M.T.
-**Mata Kuliah**: Pemrograman Mobile II
+**Dosen Pengampu**: Sutani, S.T., M.T.  
+**Mata Kuliah**: Pemrograman Mobile II  
 
-FAKULTAS INDUSTRI KREATIF
-DEPARTEMEN TEKNIK INFORMATIKA
-UNIVERSITAS TEKNOLOGI BANDUNG
-TAHUN 2026
+**FAKULTAS INDUSTRI KREATIF**  
+**DEPARTEMEN TEKNIK INFORMATIKA**  
+**UNIVERSITAS TEKNOLOGI BANDUNG**  
+**TAHUN 2026**
 
 ---
 
@@ -53,3 +53,15 @@ lib/
 ├── services/                  # Layanan data / API / Database
 ├── providers/                 # State management
 └── utils/                     # Helper & konstanta
+```
+
+---
+
+## Dokumentasi Hasil Target (Screenshot Aplikasi)
+Berikut adalah bukti tangkapan layar aplikasi **Kampusku** yang berjalan di 2 target platform berbeda:
+
+### 1. Target Web (Google Chrome)
+![Tampilan Web Google Chrome](tugas/screenshot_chrome.png)
+
+### 2. Target Mobile (Android / Perangkat Fisik)
+<img src="tugas/screenshot_hp.jpeg" alt="Tampilan Mobile Android" width="360" />
